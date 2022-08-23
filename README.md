@@ -23,6 +23,8 @@ font:     Noto Sans Egyptian Hieroglyphs, Noto Sans Ogham, Noto Sans Bamum, Noto
           
 -->
 
+See the course at: https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/Fonts/main/README.md#6
+
 # Fonts
 
 This is a demonstration on how to the `font` macro can be used to integrate various different fonts for any kind of language (dead or alive).
